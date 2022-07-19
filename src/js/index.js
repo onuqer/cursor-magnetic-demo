@@ -1,4 +1,3 @@
-
 import Cursor from "cursor";
 import Magnetic from "magnetic";
 
